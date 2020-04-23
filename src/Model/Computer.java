@@ -7,7 +7,6 @@ public class Computer {
 	private String cpu;
 	private String motherBoard;
 	private int hddCapacity;
-	private int field;
 	
 	
 	public Computer() {
