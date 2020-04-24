@@ -3,7 +3,6 @@ package Controller;
 import java.util.ArrayList;
 
 import Model.Computer;
-import Operations.Helper;
 
 public class main {
 
@@ -15,7 +14,6 @@ public class main {
 		Computer c1 = new Computer("Test1", 8 ,"Ej2", "Ej3", 512);
 		Computer c2 = new Computer("Ej", 16 ,"Ej2", "Ej3", 1024);
 		Computer c3 = new Computer("Ej", 32 ,"Ej2", "Ej3", 2048);
-		Computer c4 = new Computer("Ej", 32 ,"Ej2", "Ej3", 2048);
 		
 		array.add(c1);
 		array.add(c2);
